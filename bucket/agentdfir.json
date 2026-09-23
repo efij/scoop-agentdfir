@@ -1,16 +1,16 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "Digital forensics and incident response for AI coding agents",
   "homepage": "https://github.com/efij/AgentDFIR",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/efij/AgentDFIR/releases/download/v2.5.0/agentdfir-v2.5.0-windows-amd64.zip",
-      "hash": "285ffd5c81be19ff21b3db2ce620055364390776306a7622a41baeb6811c10d4"
+      "url": "https://github.com/efij/AgentDFIR/releases/download/v2.5.1/agentdfir-v2.5.1-windows-amd64.zip",
+      "hash": "e832953e8d1aadc17153630183d8190e09fbc1b287609a2adb33ed0b43eca686"
     },
     "arm64": {
-      "url": "https://github.com/efij/AgentDFIR/releases/download/v2.5.0/agentdfir-v2.5.0-windows-arm64.zip",
-      "hash": "2f27b277157bbb96bb39543008ff0da00ab45a65ab664673bf998b2e89698a3c"
+      "url": "https://github.com/efij/AgentDFIR/releases/download/v2.5.1/agentdfir-v2.5.1-windows-arm64.zip",
+      "hash": "cce63849507b1dcdad5a3bee8d633f5a3ab5768eec799c431069ed0a8c7661b9"
     }
   },
   "bin": "agentdfir.exe",
